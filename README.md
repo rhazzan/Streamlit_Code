@@ -151,20 +151,19 @@ Then reference them like below.
 
 <!-- Replace upload_page.png with your actual screenshot file -->
 
-![Upload Page](screenshots/Upload.png
-)
+![Upload Page](Screenshots/upload.png)
 
 ---
 
 ## Data Processing
 
-![Processing Screen](screenshots/Process_Data.png)
+![Processing Screen](Screenshots/Process_Data.png)
 
 ---
 
 ## Financial Dashboard
 
-![Dashboard](screenshots/Dashboard_and_result.png)
+![Dashboard](Screenshots/Dashboard.png)
 
 ---
 
