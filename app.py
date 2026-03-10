@@ -10,7 +10,7 @@ if uploaded_file is None:
 else:
     if st.button("Process Data"):
         st.success("FIle Processed and Visualized")
-        tab1, tab2,tab3 = st.tabs(["Dashboard","Savings Dashboard", "Dataset"])
+       # tab1, tab2,tab3 = st.tabs(["Dashboard","Savings Dashboard", "Dataset"])
         xls = pd.ExcelFile(uploaded_file)
         savings_sheet_name = 'Savings Account Transactions'
 
@@ -507,3 +507,4 @@ else:
             st.dataframe(df)  # Show the dataset
             # st.title("Bank Dashboard")
         
+
